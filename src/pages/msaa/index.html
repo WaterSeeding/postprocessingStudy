@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>deck.gl Example</title>
+    <style type="text/css">
+      html,
+      body {
+        position: relative;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+      }
+
+      #viewport {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+      }
+
+      .tp {
+        width: 256px;
+        position: absolute;
+        right: 3px;
+        top: 3px;
+        z-index: 1;
+        user-select: none;
+        &.hidden {
+          visibility: hidden;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="viewport">
+      <div class="tp"></div>
+    </div>
+  </body>
+</html>
