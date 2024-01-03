@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Index 123456")})();

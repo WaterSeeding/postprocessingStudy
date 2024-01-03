@@ -1,0 +1,19 @@
+/**
+ * @license
+ * Copyright 2010-2023 Three.js Authors
+ * SPDX-License-Identifier: MIT
+ */
+
+/**
+ * postprocessing v6.34.1 build Wed Dec 27 2023
+ * https://github.com/pmndrs/postprocessing
+ * Copyright 2015-2023 Raoul van Rüschen
+ * @license Zlib
+ */
+
+/**
+ * spatial-controls v6.1.1 build Sun Oct 01 2023
+ * https://github.com/vanruesc/spatial-controls
+ * Copyright 2017 Raoul van Rüschen
+ * @license Zlib
+ */
